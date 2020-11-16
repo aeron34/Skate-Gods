@@ -3,3 +3,29 @@ img {
   margin-left: auto;
   margin-right: auto;
 }
+
+p, h1{
+  text-align: center;
+  padding: 10px;
+}
+
+.im {
+  max-width: 75%;
+}
+
+
+
+.t {
+  display: flex;
+  justify-content: center;
+}
+
+#nav li {
+  padding: 10px;
+  background-color: grey;
+  display: inline-block;
+  float: left;
+}
+#facts li {
+  margin-bottom: 30px;
+}
