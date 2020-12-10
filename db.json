@@ -1,5 +1,5 @@
 {
-  name: "yo",
-  posts: 4,
-  vids: 10
+  "name": "yo",
+  "posts": 4,
+  "vids": 10
 }
