@@ -1,10 +1,6 @@
 {
   "acc1": {
     "name": "yo",
-    "posts": 4
-  },
-  "acc2": {
-    "name": "yno",
-    "posts": 8
+    "posts": "4"
   }
 }
