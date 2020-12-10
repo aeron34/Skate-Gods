@@ -1,9 +1,9 @@
 {
-  acc1: {
+  "acc1": {
     name: "yo",
     posts: 4
   },
-  acc2: {
+  "acc2": {
     name: "yno",
     posts: 8
   }
