@@ -1,5 +1,10 @@
 {
-  "name": "yo",
-  "posts": 4,
-  "vids": 10
+  acc1: {
+    name: "yo",
+    posts: 4
+  },
+  acc2: {
+    name: "yno",
+    posts: 8
+  }
 }
