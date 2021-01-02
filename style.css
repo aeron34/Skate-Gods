@@ -26,6 +26,7 @@ a {
     font-family: "main_f";
     color:white;
       text-align: right;
+      margin-right: 30px;
 }
 
 a:hover {
