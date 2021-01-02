@@ -5,6 +5,7 @@
   transform: perspective(1px) translateZ(0);
   box-shadow: 0 0 1px rgba(0, 0, 0, 0);
   position: relative;
+  color:white;
   overflow: hidden;
 }
 .undline_head:before {
@@ -16,6 +17,7 @@
   bottom: 0;
   background: grey;
   height: 4px;
+  color:white;
   -webkit-transition-property: right;
   transition-property: right;
   -webkit-transition-duration: 0.3s;
@@ -25,4 +27,5 @@
 }
 .undline_head:hover:before, .undline_head:focus:before, .undline_head:active:before {
   right: 0;
+  color:white;
 }

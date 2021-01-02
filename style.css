@@ -25,7 +25,12 @@ a {
     font-size: 25px;
     font-family: "main_f";
     color:white;
-    text-decoration: none;
+      text-align: right;
+}
+
+a:hover {
+  color:white;
+  text-decoration: none;
 }
 
 li {
