@@ -1,0 +1,77 @@
+@import url("anims.css");
+
+@font-face {
+    font-family: "main_f";
+    src: url("Tree D Wannabe.ttf");
+}
+
+@font-face {
+    font-family: "logo_font";
+    src: url("AngillaTattoo.ttf");
+}
+@font-face {
+    font-family: "Icons";
+    src: url("Tribal Animals Tattoo Designs.ttf");
+}
+
+@font-face {
+    font-family: "main_f";
+    src: url("Tree D Wannabe.ttf");
+}
+
+a {
+    display: block;
+    padding: 20px;
+    font-size: 25px;
+    font-family: "main_f";
+    color:white;
+      text-align: right;
+      margin-right: 30px;
+}
+
+a:hover {
+  color:white;
+  text-decoration: none;
+}
+
+li {
+  margin-right: 9%;
+}
+
+.content {
+  padding: 30px;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
+
+p {
+  color:white;
+}
+
+.content p {
+  font-size: 25px;
+  width:75%;
+}
+
+nav {
+  background-color: black;
+}
+
+video
+{
+  width: 100%;
+  opacity: 0.5;
+  margin-bottom: 5%;
+}
+
+.sktlogo {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+
+body {
+  margin: 0px;
+  background-color: black;
+}

@@ -1,0 +1,17 @@
+._fcss_footer {
+  display: grid;
+  border-top: 2px solid red;
+  grid-template-columns: 1fr 2fr 1fr;
+  height: 200px;
+}
+
+._fcss_footer > div {
+  display:flex;
+  justify-content: center;
+  align-items: center;
+}
+
+._fcss_a {
+  padding:0px;
+  margin: 2px;
+}
